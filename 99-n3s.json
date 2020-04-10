@@ -1,0 +1,12 @@
+{
+    "content": "",
+    "username": "Welcome to N3FS!",
+    "avatar_url": "https://n3fs.co.uk/assets/images/logo.png",
+    "embeds": [
+        {
+            "title": "⚠ PSA: N3FS is NOT the official NerdCubed Minecraft server.",
+            "description": "This is the N3FS, not the official, short-term Nerd³ Community Minecraft Survival server announced by Dan on 20 March 2020. For that server, visit [mc.n3s.co](https://mc.n3s.co/).",
+            "color": 16737826
+        }
+    ]
+}
