@@ -4,12 +4,12 @@
     "avatar_url": "https://n3fs.co.uk/assets/images/logo.png",
     "embeds": [
         {
-            "title": "Our game servers",
+            "title": "🎮 Our game servers",
             "description": "We currently run the following servers:",
             "fields": [
                 {
                     "name": "Minecraft",
-                    "value": "`mc.n3fs.co.uk` / Minecraft 1.14.4+ / [More info](https://n3fs.co.uk/minecraft)"
+                    "value": "`mc.n3fs.co.uk` / Minecraft 1.15.2 / [More info](https://n3fs.co.uk/minecraft)"
                 },
                 {
                     "name": "Discord",
